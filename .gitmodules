@@ -2,6 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "eodhd"]
-	path = eodhd
-	url = https://github.com/eodhistoricaldata/eodhd-apis-r-financial-library
+[submodule "eodhdR2"]
+	path = eodhdR2
+	url = https://github.com/eodhistoricaldata/r-library-for-financial-data-2024
